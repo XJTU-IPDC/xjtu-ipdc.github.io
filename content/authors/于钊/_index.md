@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zha Yu 于钊
+title: Zhao Yu 于钊
 
 # Full name (for SEO)
 first_name: Zhao
@@ -14,15 +14,20 @@ authors:
 superuser: false
 
 # Role/position
-role: doctoral candidate
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi'an Jiaotong University
+  - name: Kezhi's Blog
+    url: 'https://www.kezhi.tech'
+  - name: 西安交通大学 XJTU
     url: 'https://www.xjtu.edu.cn'
 
+  - name: 智能感知与决策研究中心 IPDC
+    url: 'https://ipdc.org.cn'
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我永远喜欢爱莉希雅 ❤<br> I Love Elysia Forever ❤
 
 interests:
   - Artificial Intelligence
@@ -48,13 +53,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yuzhaokz@163.com'
-  - icon: twitter
+    link: 'mailto:yuzhaokz@163.com'
+  - icon: bilibili
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://space.bilibili.com/78031804
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/KezhiAdore
@@ -74,6 +79,5 @@ user_groups:
   - 博士研究生(在读)
 ---
 
-于钊(Yu Zhao) is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+于钊（Yu Zhao） 暂时没有任何介绍
+<img src="https://server.kezhi.tech:8090/image/63e463710a893.jpg" alt="fa0afeb18bf84e918b5750540eecaede32b99d4a.jpg" title="fa0afeb18bf84e918b5750540eecaede32b99d4a.jpg" />
