@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+         <center>Intelligent Perception & Decision Making Center</center>
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **IPDC** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2021.
   
   - block: collection
     content:
