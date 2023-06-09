@@ -59,7 +59,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/KezhiAdore
+    link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,4 +76,4 @@ user_groups:
   - 硕士研究生(毕业)
 ---
 
-姓名
+## 个人简介
