@@ -1,3 +1,55 @@
+# IPDC 组织网站
+
+智能感知与决策研究中心，IPDC的组织网站，使用Hugo框架，使用wowchemy主题。为便于组内成员使用，特写以下简单的使用说明。
+
+对网站内容进行编辑之后，提交`git commit`并`push`到remote的仓库中，GitHub Action会自动重新生成网页。因此专注内容即可。
+
+## 个人资料编辑
+
+1. 若个人资料不存在，则复制`content/authors/example`文件夹到目录`content/authors/`下，重命名为自己的名字，如`刘子锋`。
+2. 变更该目录下的`avatar.jpg`文件即可更换头像
+3. 编辑`index.md`中的内容即可改变个人页面中的内容，具体效果看改文件中的注释即可。
+
+## 新闻编辑
+
+1. 新建一篇新闻，复制`content/post/example`文件夹到目录`content/post/`下，重命名为自己的新闻标题，如`2021-09-01-新闻标题`。
+2. 编辑该目录下的`index.md`写新闻即可。
+
+## 文章/出版物编辑
+
+1. 新建一篇文章，复制`content/publication/example`文件夹到目录`content/publication/`下，重命名为自己的文章标题，如`2021-09-01-文章标题`。
+2. 编辑该目录下的`index.md`将文章写入即可。
+
+## 本地编译及渲染
+
+hugo是基于go的，因此，若想要在本地编译及渲染，需要先安装go环境。安装方法请自行百度。
+
+其次，需要在本地安装hugo，windows下的安装方法很简单，打开powershell，输入命令：
+
+```powershell
+
+winget install Hugo.Hugo.Extended
+```
+
+即可，详见https://gohugo.io/installation/windows/。安装完之后最好重启下电脑，不然环境变量可能不生效。
+
+配置好环境后，将本仓库clone到本地，在目录下运行命令：
+
+```powershell
+hugo
+```
+
+即可对网页进行渲染。运行命令：
+
+```powershell
+hugo server
+```
+
+即可在本地1313端口生成预览。
+
+---
+***以下为原主题使用文档***
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
