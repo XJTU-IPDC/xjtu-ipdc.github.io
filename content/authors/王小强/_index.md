@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: doctor
+role: Doctor
 
 # Organizations/Affiliations
 organizations:
@@ -31,12 +31,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Control Science and Engineering
+    - course: Ph.D. in Control Science and Engineering
       institution: Xi'an Jiaotong University
-      year: 2018
-    - course: BE in Automation
+      year: 2018.09-2023.06
+    - course: B.E. in Automation
       institution: Chongqing University
-      year: 2014
+      year: 2014.09-2018.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
