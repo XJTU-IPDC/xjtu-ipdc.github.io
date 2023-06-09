@@ -22,7 +22,6 @@ organizations:
     url: 'https://www.kezhi.tech'
   - name: 西安交通大学 XJTU
     url: 'https://www.xjtu.edu.cn'
-
   - name: 智能感知与决策研究中心 IPDC
     url: 'https://ipdc.org.cn'
 
@@ -51,6 +50,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: blog
+    icon_pack: fas
+    link: https://www.kezhi.tech
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yuzhaokz@163.com'
