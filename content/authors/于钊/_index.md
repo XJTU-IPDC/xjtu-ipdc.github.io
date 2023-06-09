@@ -35,15 +35,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Control Science and Engineering
+    - course: Ph.D. in Control Science and Engineering
       institution: Xi'an Jiaotong University
-      year: 2023
-    - course: MEng in Control Science and Engineering
+      year: 2023-present
+    - course: M.E. in Control Science and Engineering
       institution: Xi'an Jiaotong University
-      year: 2021
-    - course: BSc in Automation
+      year: 2021-2023
+    - course: B.E. in Automation
       institution: Xi'an Jiaotong University
-      year: 2017
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
