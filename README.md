@@ -31,7 +31,7 @@ hugo是基于go的，因此，若想要在本地编译及渲染，需要先安�
 winget install Hugo.Hugo.Extended
 ```
 
-即可，详见https://gohugo.io/installation/windows/。安装完之后最好重启下电脑，不然环境变量可能不生效。
+即可，详见<https://gohugo.io/installation/windows/>。安装完之后最好重启下电脑，不然环境变量可能不生效。
 
 配置好环境后，将本仓库clone到本地，在目录下运行命令：
 
