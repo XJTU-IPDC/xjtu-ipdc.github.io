@@ -1,6 +1,6 @@
 ---
 title: Happy graduation
-date: 2023-6-18
+date: 2023-06-18
 image:
   focal_point: 'top'
 writer:
