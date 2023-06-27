@@ -3,8 +3,7 @@ title: Happy graduation
 date: 2023-06-18
 image:
   focal_point: 'top'
-writer:
-  Jianyu Duan
+Author: Jianyu Duan
 ---
 
 Congratulations to Wang Xiaoqiang, Liu Zifeng, Huang Junbo, Guoyanxiao, Hanjie on their successful graduation.
