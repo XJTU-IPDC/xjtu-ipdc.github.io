@@ -30,6 +30,7 @@ interests:
   - Artificial Intelligence
   - Reinforcement Learning
   - Game Theory
+  - Federated Learning
 
 education:
   courses:
@@ -67,4 +68,5 @@ user_groups:
   - 硕士研究生(在读)
 ---
 
-## 个人简介
+## Hey! ForzaDUAN here, Nice to see you.💝
+
